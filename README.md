@@ -1,1 +1,1 @@
-# Bayesian_optimization_case_study
+# Bayesian optimization case study
